@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nu e virus</string>
+    <string name="device_name_format">Device name: %1$s</string>
+    <string name="total_count_format">Total Media Count: %d</string>
+    <string name="percentage_format">%d%%</string>
+    <string name="uptime_format">Uptime: %s</string>
+</resources>
